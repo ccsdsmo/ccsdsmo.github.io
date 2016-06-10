@@ -1,2 +1,2 @@
 # ccsdsmo.github.io
-CCSDS Mission Operation Webite
+CCSDS Mission Operation Website
