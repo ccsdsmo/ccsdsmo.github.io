@@ -17,9 +17,3 @@ This website acts as a central source for CCSDS Mission Operation information, d
 
 Official CCSDS MO publications can be downloaded directly from the [CCSDS website](http://public.ccsds.org/publications/BlueBooks.aspx).
 
-## Is there any open-source MO software available?
-
-Here is the list of currently available open-source implementations:
-- MAL Java API
-- MAL C API
-
