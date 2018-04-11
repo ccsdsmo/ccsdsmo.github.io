@@ -1,6 +1,0 @@
-{
-  "name": "CCSDS Mission Operations",
-  "tagline": "CCSDS Mission Operations Website",
-  "body": "### What is CCSDS Mission Operations?\r\nThe Spacecraft Monitoring & Control (SM&C) Working Group of the [Consultative Committee for Space Data Systems (CCSDS)](http://www.ccsds.org), which sees the active participation of 10 space agencies and of the Space Domain Task Force of the Object Management Group (OMG), is defining a service-oriented architecture consisting of a set of standard end-to-end services between functions resident on board a spacecraft or based on the ground, that are responsible for mission operations.\r\n\r\nYou can learn more on the [CCSDS MO Wiki](https://github.com/esa/CCSDS_MO/wiki)\r\n\r\n### What is this website for?\r\nThis website acts as a central source for CCSDS Mission Operation information, documentation and software.\r\n\r\n### Where can I find the standards?\r\nOfficial CCSDS MO publications can be downloaded directly from the [CCSDS website](http://public.ccsds.org/publications/BlueBooks.aspx).\r\n\r\n### Is there any open-source MO software available?\r\nHere is the list of currently available open-source implementations:\r\n - [MAL Java API](https://github.com/esa/CCSDS_MO)\r\n - [MAL C API](https://github.com/ccsdsmo/malc/)",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
