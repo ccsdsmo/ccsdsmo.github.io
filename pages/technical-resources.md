@@ -10,6 +10,11 @@ permalink: /technical-resources
     @TODO
     This should contain a link to a wiki containing explaining material
 
+On Wikipedia:
+ * [CCSDS Mission Operations](https://en.wikipedia.org/wiki/CCSDS_Mission_Operations)
+ * [CCSDS MO Services](https://en.wikipedia.org/wiki/CCSDS_MO_Services)
+ * [CCSDS MO Message Abstraction Layer](https://en.wikipedia.org/wiki/Message_Abstraction_Layer)
+
 ### Reference Books
 
 #### Basics
