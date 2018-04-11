@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 weight: 7
-permalink: /faq/
+permalink: /faq
 ---
 
 ## Is a subscription needed to receive telemetry? / How does commanding-in-the-blind work?
