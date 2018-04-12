@@ -1,0 +1,20 @@
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/favicon.ico" height="30px" /> CCSDS MO</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  {% assign sorted_pages = site.pages | sort:"weight" -%}
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav nav-tabs mr-auto">
+    {%- for p in sorted_pages -%}
+      {% if p.path contains 'pages/' %}
+      <li class="nav-item">
+        <a class="nav-link {% if p.url == page.url %}active{% endif %}" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+      </li>
+      {%- endif -%}
+    {% endfor %}
+    </ul>
+  </div>
+</nav>
