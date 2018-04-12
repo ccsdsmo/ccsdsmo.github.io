@@ -3,8 +3,9 @@ layout: page
 title: FAQ
 weight: 9
 permalink: /faq
-toc: true
 ---
+
+* TOC {:toc}
 
 ### Is a subscription needed to receive telemetry? / How does commanding-in-the-blind work?
 
