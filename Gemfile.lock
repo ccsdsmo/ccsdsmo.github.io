@@ -66,7 +66,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
-  jekyll-toc
+  jekyll-toc (~> 0.5.2)
 
 BUNDLED WITH
    1.16.1

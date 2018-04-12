@@ -4,14 +4,14 @@ layout: default
 
 <div class="container">
     <section class="jumbotron text-center">
-        <div class="container">
-            <h1 class="jumbotron-heading">{{ site.title }}</h1>
-            <p class="lead text-muted">{{ site.description}}</p>
-            <p>
-                <a href="#" class="btn btn-primary my-2">Main call to action</a>
-                <a href="#" class="btn btn-secondary my-2">Secondary action</a>
-            </p>
-        </div>
+        <h1 class="jumbotron-heading">
+            <img src="{{ site.baseurl }}/favicon.ico" height="80px" /> &nbsp; {{ site.title }}
+        </h1>
+        <p class="lead text-muted">{{ site.description}}</p>
+        <p class="text-center">
+            <a href="{{ site.button1.url }}" class="btn btn-primary my-2">{{ site.button1.name }}</a>
+            <a href="{{ site.button2.url }}" class="btn btn-secondary my-2">{{ site.button2.name }}</a>
+        </p>
     </section>
 </div>
 
