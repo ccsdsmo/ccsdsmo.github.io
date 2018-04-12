@@ -5,7 +5,8 @@ weight: 9
 permalink: /faq
 ---
 
-* TOC {:toc}
+* TOC 
+{:toc}
 
 ### Is a subscription needed to receive telemetry? / How does commanding-in-the-blind work?
 
