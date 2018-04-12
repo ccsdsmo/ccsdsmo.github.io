@@ -7,8 +7,7 @@ permalink: /technical-resources
 
 ### *Getting started* guides and Tutorials
 
-    @TODO
-    This should contain a link to a wiki containing explaining material
+ * [CCSDS MO wiki](https://github.com/ccsdsmo/ccsdsmo.github.io/wiki)
 
 On Wikipedia:
  * [CCSDS Mission Operations](https://en.wikipedia.org/wiki/CCSDS_Mission_Operations)
