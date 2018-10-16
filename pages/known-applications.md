@@ -30,8 +30,9 @@ Used implementation: Reference implementation for a software simulator with many
 
 On-going implementation: OPS-SAT mission (to be launched)
 
-*More info: [Wikipedia page](https://en.wikipedia.org/wiki/NanoSat_MO_Framework)*
+*More info*
 
-*More info: [Official page](https://nanosat-mo-framework.github.io/)*
-
-*More info: [Research Dissertation](https://www.researchgate.net/publication/321825076_A_Software_Framework_for_Nanosatellites_based_on_CCSDS_Mission_Operations_Services_with_Reference_Implementation_for_ESA's_OPS-SAT_Mission?_sg=n_0zxq2jOecgvXb2NnQl1H7iqj08haU_oOju6pkRqwIPoLmn3x2IJYrhvJdixjKLsbs0wpJ_Ty-Ok7jOvR2Sc9aunnweP9iBXpDHohgu.30U33ftmZ3i7h5SGFcykKUx4HZ5xDn0S0qVKvklotOg0wn-tQpfl3SJ59mX90Vo94DuXrKCJtkFWjqBZrige1w)*
+  * [Wikipedia page](https://en.wikipedia.org/wiki/NanoSat_MO_Framework)
+  * [Official page](https://nanosat-mo-framework.github.io/)
+  * [Research Dissertation](https://www.researchgate.net/publication/321825076_A_Software_Framework_for_Nanosatellites_based_on_CCSDS_Mission_Operations_Services_with_Reference_Implementation_for_ESA's_OPS-SAT_Mission?_sg=n_0zxq2jOecgvXb2NnQl1H7iqj08haU_oOju6pkRqwIPoLmn3x2IJYrhvJdixjKLsbs0wpJ_Ty-Ok7jOvR2Sc9aunnweP9iBXpDHohgu.30U33ftmZ3i7h5SGFcykKUx4HZ5xDn0S0qVKvklotOg0wn-tQpfl3SJ59mX90Vo94DuXrKCJtkFWjqBZrige1w)
+ 
