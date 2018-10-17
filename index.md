@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
 
@@ -15,5 +12,5 @@ This website acts as a central source for CCSDS Mission Operation information, d
 
 ## Where can I find the standards?
 
-Official CCSDS MO publications can be downloaded directly from the [CCSDS website](http://public.ccsds.org/publications/BlueBooks.aspx).
+Official CCSDS MO publications can be downloaded directly from the [CCSDS website](http://public.ccsds.org/publications/BlueBooks.aspx). Theses resources are listed on the [technical resources page](/technical-resources).
 
