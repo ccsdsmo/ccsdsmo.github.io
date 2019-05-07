@@ -36,7 +36,7 @@ On Wikipedia:
 
 ### CCSDS MO Processes
 
-#### Reads
+#### RIDs
 
     @TODO
     Agree upon a definitive process with Sam and Dan
