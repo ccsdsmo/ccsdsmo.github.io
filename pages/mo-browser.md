@@ -5,7 +5,7 @@ weight: 8
 permalink: /mo-browser
 ---
 
-<a href="https://ccsdsmo.github.io/mo" target="_blank">Go to the MO Browser</a>
+[Go to the MO Browser](https://ccsdsmo.github.io/mo){:target="_blank"}
 
 ### What is the MO Browser?
 
