@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MO Browser
-weight: 4
+weight: 8
 permalink: /mo-browser
 ---
 
