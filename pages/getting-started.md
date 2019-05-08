@@ -1,8 +1,8 @@
 ---
 layout: page
-title: MO Services
+title: Getting Started
 weight: 2
-permalink: /mo-services
+permalink: /getting-started
 ---
 
     @TODO
