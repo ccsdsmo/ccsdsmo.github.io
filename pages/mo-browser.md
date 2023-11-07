@@ -5,7 +5,7 @@ weight: 8
 permalink: /mo-browser
 ---
 
- &#x21AA; [Go to the MO Browser](https://ccsdsmo.github.io/mo){:target="_blank"}
+ &#x21AA; [Go to the MO Browser (ESA website)](https://esa.github.io/mo.viewer.web/){:target="_blank"}
 
 ### What is the MO Browser?
 
