@@ -6,7 +6,7 @@ permalink: /about-us
 ---
 
 ### Contact
-Find our contact informations here: [https://cwe.ccsds.org/moims/default.aspx](https://cwe.ccsds.org/moims/default.aspx)
+Find our contact informations here: [https://ccsds.org/about/technical-organization](https://ccsds.org/about/technical-organization)
 
 ### CCSDS
 Founded in 1982 by the major space agencies of the world, the CCSDS is a multi-national forum for the development of communications and data systems standards for spaceflight.
@@ -20,6 +20,3 @@ The goal is to enhance governmental and commercial interoperability and cross-su
 ### CCSDS MOIMS
 
 Mission Operations and Information Management Services Area The objective of the Mission Operations and Information Management Services (MOIMS) Area is to address all of the flight execution phase applications that are required to operate the spacecraft and its ground system in response to mission objectives, and their associated detailed information management standards and processes.
-
-*See more at [https://public.ccsds.org/Publications/MOIMS.aspx](https://public.ccsds.org/Publications/MOIMS.aspx)*
-
