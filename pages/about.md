@@ -7,6 +7,7 @@ permalink: /about-us
 
 ### Contact
 Find our contact informations here: [https://ccsds.org/about/technical-organization](https://ccsds.org/about/technical-organization)
+Or write us to "moims-sc [at] mailman.ccsds.org"
 
 ### CCSDS
 Founded in 1982 by the major space agencies of the world, the CCSDS is a multi-national forum for the development of communications and data systems standards for spaceflight.
