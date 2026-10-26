@@ -7,6 +7,7 @@ permalink: /about-us
 
 ### Contact
 Find our contact informations here: [https://ccsds.org/about/technical-organization](https://ccsds.org/about/technical-organization)
+
 Or write us to "moims-sc [at] mailman.ccsds.org"
 
 ### CCSDS
