@@ -17,7 +17,7 @@ Today, leading space communications experts from 27 nations collaborate in devel
 
 The goal is to enhance governmental and commercial interoperability and cross-support, while also reducing risk, development time and project costs.
 
-*See more at [ccsds.org](https://public.ccsds.org)*
+*See more at [ccsds.org](https://ccsds.org)*
 
 ### CCSDS MOIMS
 
