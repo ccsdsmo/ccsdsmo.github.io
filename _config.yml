@@ -22,11 +22,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 button1:
   name: CCSDS Website
-  url: https://public.ccsds.org
+  url: https://ccsds.org
 
 button2:
   name: CCSDS MO
-  url: https://cwe.ccsds.org/moims/default.aspx
+  url: https://ccsds.org/publications/moims/
 
 plugins:
   - jekyll-toc
