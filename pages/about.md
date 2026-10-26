@@ -20,3 +20,5 @@ The goal is to enhance governmental and commercial interoperability and cross-su
 ### CCSDS MOIMS
 
 Mission Operations and Information Management Services Area The objective of the Mission Operations and Information Management Services (MOIMS) Area is to address all of the flight execution phase applications that are required to operate the spacecraft and its ground system in response to mission objectives, and their associated detailed information management standards and processes.
+
+*See more at [https://ccsds.org/publications/moims/](https://ccsds.org/publications/moims/)*
